@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
 # <b>EN: Algorithms and Data Structures</b>
 > FAMCS BSU 2023 (3th semester, Applied Informatics)
 
@@ -50,4 +47,3 @@
 - максимальный поток в сети, алгоритм Диница
 
 ## **Практически по всем темам были сделаны лабораторные работы в системе Irunner2 BSU, c кодом которых можно ознакомиться в этом репозитории.**
->>>>>>> Stashed changes
